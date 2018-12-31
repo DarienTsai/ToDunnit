@@ -1,2 +1,4 @@
-# ToDunnit-Python-to-do-list
-A cmd to do list
+# ToDunnit
+###A Python to do list
+
+Runs in Windows command prompt
